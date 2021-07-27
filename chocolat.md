@@ -1,1 +1,1 @@
-100g de chocolat noir
+100g de bon chocolat noir
