@@ -9,4 +9,7 @@ E5: Beurrer une plaque allant au four et former les cookies sur la plaque.
 Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés les uns des autres ; ils grandiront à la cuisson.
 
 E6: Enfourner pour 10 minutes de cuisson.
-E7: Dresser un plat avec les cookies réalisés.
+
+.
+
+E7: Dresser un plat avec les cookies réalisés. // des changements pour refaire les conflits
