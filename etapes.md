@@ -1,6 +1,8 @@
 Réalisation :
 
 E0: Bon appétit !
+
+
 E1: Détailler le chocolat en pépites.
 E2: Préchauffer le four à 180°C (thermostat 6).
 E3: Dans un saladier, mettre 75 g de beurre, le sucre, l'œuf entier, la vanille et mélanger le tout.
