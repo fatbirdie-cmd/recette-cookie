@@ -15,3 +15,4 @@ E6: Enfourner pour 10 minutes de cuisson.
 
 E7: Dresser un plat avec les cookies réalisés. // des changements pour refaire les conflits Troisieme essai, mais avec des differences.
 E7: Dresser un plat avec les cookies réalisés. Troisieme essai pour tester les conflits
+ q
